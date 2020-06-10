@@ -14,7 +14,7 @@ def assembled_aoh
     KATE_G,
     BRUCE_G
   ]
-assembled_aoh[0,1,2,3,4]
+assembled_aoh[0..4]
 end
 
 def literal_aoh
