@@ -14,7 +14,8 @@ def assembled_aoh
     KATE_G,
     BRUCE_G
   ]
-  aoh
+  result = aoh
+  result
 end
 
 def literal_aoh
