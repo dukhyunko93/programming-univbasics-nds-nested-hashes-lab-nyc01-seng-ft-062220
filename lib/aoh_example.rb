@@ -15,7 +15,7 @@ def assembled_aoh
     BRUCE_G
   ]
 
-assembled_aoh
+assembled_aoh.sort
 end
 
 def literal_aoh
